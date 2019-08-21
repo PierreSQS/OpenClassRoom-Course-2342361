@@ -2,6 +2,7 @@
 Repository pour la partie 2 de l'activité du cours 2342361 de OpenClassRoom
 
 Enoncé de l'activité:
+
 Vous devez créer un repository Git simple contenant :
 
 Un fichier nommé "README.txt" qui présente le projet;
