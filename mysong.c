@@ -1,3 +1,4 @@
+// Code c pour une sequence-son
 #include <windows.h>
 
 void main()
